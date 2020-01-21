@@ -1,0 +1,102 @@
+nav  :hover{
+
+	background-color: #696969;
+}
+ nav ul a:hover{
+	color: #0CB439;
+
+}
+nav  {
+	background: grey;
+	padding: 0;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	text-align: center; /* elemente mittig */
+}
+
+nav ul   {
+	display: inline-block; /* nebeneinander in einem Block */
+	margin: 0; /* keine Abstände */
+	padding: 0;
+
+
+
+}
+nav ul a {
+	font-size: 20px;
+	color: white;
+	text-decoration: none; /* nicht unterstrichen */
+	padding: 25px 25px 25px 25px;
+	display: block;
+
+}
+.test {
+	font-size: 12px;
+	list-style-type: none; /* ohne Aufzählungspunkte*/
+}
+p , li		{color: solid black; font-family: Arial; font-size:14px;
+}
+
+h1, h2 , h3, h4	 {font-family: Arial; color: #0CB439;
+}
+
+h1		{
+	border-bottom:		2px solid black;
+	text-align: center;
+}
+li  a {
+	color: orange;
+	text-decoration: none;
+}
+
+h3 {display: inline-block; /* nebeneinander in einem Block */
+	padding: 25px 25px 25px 25px;
+}
+
+table, th, td {
+font-size: 1em;
+border: 1px solid #003366;
+border-collapse: collapse;
+font-family: arial;
+text-align: center; /* elemente mittig */
+
+
+
+}
+
+
+th {
+color: #006400 ;
+
+}
+
+form{float:left; width:130px;}
+
+
+
+td a {
+margin-left: 15px;
+margin-right: 15px;
+text-decoration: none; /* nicht unterstrichen */
+color: grey;
+font-size: 20px
+}
+
+
+
+
+textarea {
+
+
+	max-width: 100%
+	height:auto;
+	min-height: 100px;
+	min-width: 169px;
+
+}
+
+p a {
+	color: #0CB439;
+	text-decoration: none;
+}
